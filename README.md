@@ -26,7 +26,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/SecureSync-Notes_App.git
+git clone https://github.com/lubdha-chaudhari/SecureSync-Notes_App.git
 Open the project in Android Studio.
 
 Set up Firebase:
